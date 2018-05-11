@@ -23,3 +23,6 @@ on a fait de notre mieux soyez indulgent si tout n'est pas parfait
 nous sommes aussi sur Slack : @Raouf et @Youcef 
 
 # tape beauxgosses au 3621 et rencontre des dev' full-stack super mignons près de chez toi
+
+
+allé on t'embrasse , ciao ma poule !
