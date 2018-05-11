@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Landing Page THP</title>
+  <%= stylesheet_link_tag 'creative/manifest.css', media: 'all' %>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+  <%= javascript_include_tag 'creative/manifest.js' %>
+  <%= csrf_meta_tags %>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+  <meta property="og:description"        content="The Hacking Project est une formation qui propose des cursus gratuits, professionnalisants, à plein temps, ouverts à tous, et sans pré-requis !" />
+<meta property="og:image"              content="http://www.salondutravail.fr/wp-content/uploads/2018/01/the-hacking-project.png" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114672962-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114672962-1');
+</script>
+
+</head>
+
+<body>
+
+<%= yield %>
+
+</body>
+</html>
+
