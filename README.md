@@ -5,7 +5,7 @@ Bonjour bébé, kestia fait à la tete beb?
 
 ![alt tag](2.png)
 
-# projet réalisé par Raouf et Youcef 
+# projet réalisé par Raouf et Youcef de la team EAST COAST Marseille
 kiffons la life, soyons heureux fuck le reste
 
 
