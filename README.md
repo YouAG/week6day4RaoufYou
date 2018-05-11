@@ -11,15 +11,15 @@ kiffons la life, soyons heureux fuck le reste
 
 
 
-
+# Alors t'aime bien ? Allé dis nous que tu kiffes 
 
 voilà Champion ou Championne ( pas de discriminsation chez nous )
 
 
+# pour ce qui est de la correction
+on a fait de notre mieux soyez indulgent si tout n'est pas parfait 
 
-on a fait de notre mieux soyez indulgent si tout n'est pas PERFETTO
+# Contact
+nous sommes aussi sur Slack : @Raouf et @Youcef 
 
-
-nous somme aussi sur Slack : @Raouf et @Youcef 
-
-tape beauxgosses au 3621 et rencontre des dev' full-stack super mignons pret de chez toi
+# tape beauxgosses au 3621 et rencontre des dev' full-stack super mignons près de chez toi
